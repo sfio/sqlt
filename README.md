@@ -1,4 +1,4 @@
-[![GoDoc](https://godoc.org/github.com/albert-widi/sqlt?status.svg)](https://godoc.org/github.com/albert-widi/sqlt)
+[![GoDoc](https://godoc.org/github.com/albertwidi/sqlt?status.svg)](https://godoc.org/github.com/albertwidi/sqlt)
 
 # sqlt
 
@@ -70,7 +70,7 @@ package main
 import (
     _"github.com/lib/pq"
     _ "github.com/go-sql-driver/mysql"
-    "github.com/albert-widi/sqlt"
+    "github.com/albertwidi/sqlt"
     "log"
 )
 
